@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator><link href="http://mikhailmmeskhi.me/feed.xml" rel="self" type="application/atom+xml" /><link href="http://mikhailmmeskhi.me/" rel="alternate" type="text/html" /><updated>2016-05-28T19:08:03+04:00</updated><id>http://mikhailmmeskhi.me/</id><title>Mikhail M.Meskhi</title><subtitle>Studying Aritifical Intelligence - Linux Guru</subtitle><entry><title>What is this?!</title><link href="http://mikhailmmeskhi.me/The-Beginning/" rel="alternate" type="text/html" title="What is this?!" /><published>2012-05-22T00:00:00+04:00</published><updated>2012-05-22T00:00:00+04:00</updated><id>http://mikhailmmeskhi.me/The-Beginning</id><content type="html" xml:base="http://mikhailmmeskhi.me/The-Beginning/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Hello internet! My name is Mikhail Mekhedkin-Meskhi(pretty long name). I am a software engineer at North American University in Houston, Texas. This is my blog where I will be talking about a series of stuff such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mathematics&lt;/li&gt;
+  &lt;li&gt;Artificial Intelligence&lt;/li&gt;
+  &lt;li&gt;Programming (Python, Java, C++)&lt;/li&gt;
+  &lt;li&gt;Amazing adventures in my personal life&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;break-down&quot;&gt;Break down&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mathematics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Math has always shown its affection in ambigious ways. But when I went to college I realized how important math is. I am not saying that I was bad at it nor was I great, but managed to get As. Right now its the summer of 2016 and I am taking various courses on Coursera such as Calculus and Statistics. These are classes I will be taking next semester so why not spent my paramount of free time on things that matter? Oh wait! I have this weird disease (curable), called, laziness! Slowly but surely I feel like I am defeating it! So, as I progress into more advanced math and find cool puzzles like on Euler’s Project (check my GitHub) or Khanacademy, I will blog about them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alright let’s get things straight. I, as many other of my peers, want to have interesting careers as computer scientists. After completing our freshman year in college we understood that A.I. is the future in the techonological world and the future for us. Immediately after arriving to such bold conclusions I went and opened up a A.I. lab in our college’s ACM club. Moreafter I assemebled a team and each of us right this moment are reading and studying the basics of A.I. Yes I know it is a very broad field but let’s leave that for the near future to decide what specific direction do we want to pick. On my blog you will find introductory topics like “Neural Networks” and “Machine Learning Concepts”. Also we have a MeetUp in Houston which is open to anyone to join!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming and Adventures&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The last two topics of my blog are kinda banal. In the programming section I will showcase or demonstrate projects I am working on and cool tips/tricks I think might be useful to know. Sitting in front of the computer screen 24/7 is detrimental to my eyes, back and emotional condition. Therefore, this summer I have some travelling to do! Nothing special but as I go around Europe you’ll see my updates and locations I have visited.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-words&quot;&gt;Final words&lt;/h3&gt;
+
+&lt;p&gt;I would like this to be &lt;em&gt;my&lt;/em&gt; gateway to the world. A place where I can say what I want and how I want.
+“I may not have gone where I intended to go, but I think I have ended up where I needed to be.” once said Douglas Adams.&lt;/p&gt;</content><category term="sample post" /><category term="readability" /><category term="test" /><summary>A ton of text to test readability.</summary></entry></feed>
