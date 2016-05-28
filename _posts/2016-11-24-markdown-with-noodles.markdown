@@ -1,9 +1,10 @@
 ---
-title: "What is this? Who am I?"
-layout: post-list
-date: 2016-05-28 20:00
-tag: markdown
-#star: true
+layout: post
+title: "What is this?!"
+date: 2012-05-22
+excerpt: "A ton of text to test readability."
+tags: [sample post, readability, test]
+comments: true
 ---
 
 # Introduction
