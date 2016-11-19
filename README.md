@@ -1,28 +1,26 @@
-# Moon Jekyll Theme
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Michael M.Meskhi's Blog
+--------------------------
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+*See, you not only have to be a good coder to create a 
+system like Linux, you have to be a sneaky bastard too ;-) -Linus Trovalds*
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### Description
 
-## Preview
+**Here you will find/do the following**
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+- Information about who I am and what I do
+- See my work (it's GitHub duh!)
+- Criticise my work (Stack Overflow members feel free to do so)
+- Work with me on awesome ideas that you came up with while ordering pizza
+- Connect with me and people I know in order to increase our network... connections man!
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+### Contents of my blog
 
-## Getting Started
+- Project showcase
+- My research documentation
+- Blog posts about new things I learned in:
+ - Machine Learning
+ - Math Research
+ - Linux/Python
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+*Michael M.Meskhi*
