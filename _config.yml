@@ -1,17 +1,18 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Michael M.Meskhi - Software Engineer
+description: "My personal website"
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+url: "http://michaelmmekshi.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+username: michaelmmekshi
+user_title: Michael M.Meskhi
+email: michael.m.meskhi@live.com
+twitter_username: michaelmeskhi
+github_username:  michaelmmekshi
+#gplus_username:  loremipsum
+disqus_username: mikhailmmeskhi
+stackoverflow_username:      5110035/michaelmmeskhi
 
 # Build settings
 markdown: kramdown
