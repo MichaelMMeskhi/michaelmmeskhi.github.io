@@ -27,7 +27,18 @@ compress_html:
   endings: []
   profile: false
 
-
+# Links to include in menu navigation
+links:
+  - title: home
+    url: ./_site/index.html
+  - title: my posts
+    url: ./_site/posts/index.html
+  - title: series
+    url: series.html
+  - title: tags
+    url: tags.html
+  - title: about me
+    url: /about.html
 
 # projects in header index
 projects:
