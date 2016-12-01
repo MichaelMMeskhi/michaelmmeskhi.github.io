@@ -38,7 +38,7 @@ links:
   - title: tags
     url: tags.html
   - title: about me
-    url: about.html
+    url: /about.html
 
 # projects in header index
 projects:
