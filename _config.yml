@@ -12,7 +12,7 @@ twitter_username: michaelmeskhi
 github_username:  MichaelMMeskhi
 #gplus_username:  loremipsum
 disqus_username: mikhailmmeskhi
-stackoverflow_username:      5110035/michaelmmeskhi
+stackoverflow_username: 5110035/michaelmmeskhi
 
 # Build settings
 markdown: kramdown
@@ -27,18 +27,7 @@ compress_html:
   endings: []
   profile: false
 
-# Links to include in menu navigation
-links:
-  - title: home
-    url: index.html
-  - title: my posts
-    url: posts.html
-  - title: series
-    url: series.html
-  - title: tags
-    url: tags.html
-  - title: about me
-    url: /about.html
+
 
 # projects in header index
 projects:
