@@ -30,15 +30,16 @@ compress_html:
 # Links to include in menu navigation
 links:
   - title: home
-    url: /_site/
+    url: /
   - title: my posts
-    url: /_site/posts
+    url: /posts
   - title: series
-    url: /_site/series
+    url: /series
   - title: tags
-    url: /_site/tags
+    url: /tags
   - title: about me
-    url: /_site/about
+    url: /about/index.html
+
 # projects in header index
 projects:
   - name: asciilang

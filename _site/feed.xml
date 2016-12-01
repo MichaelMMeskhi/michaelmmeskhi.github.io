@@ -3,18 +3,18 @@
   <channel>
     <title>Michael M.Meskhi - Software Engineer</title>
     <description>My personal website</description>
-    <link>http://localhost:4000/space-jekyll-template/</link>
-    <atom:link href="http://localhost:4000/space-jekyll-template/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2016 11:13:11 -0600</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 11:13:11 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Dec 2016 11:28:43 -0600</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 11:28:43 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Sharding in MongoDB</title>
         <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;sharding--why-&quot;&gt;Sharding ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
         <pubDate>Sun, 11 Sep 2016 19:06:31 -0500</pubDate>
-        <link>http://localhost:4000/space-jekyll-template/sharding/</link>
-        <guid isPermaLink="true">http://localhost:4000/space-jekyll-template/sharding/</guid>
+        <link>http://localhost:4000/sharding/</link>
+        <guid isPermaLink="true">http://localhost:4000/sharding/</guid>
         
         <category>mongodb</category>
         
@@ -27,8 +27,8 @@
         <title>Github is awesome</title>
         <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;github--why-&quot;&gt;Github ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
         <pubDate>Fri, 11 Mar 2016 18:06:31 -0600</pubDate>
-        <link>http://localhost:4000/space-jekyll-template/space/</link>
-        <guid isPermaLink="true">http://localhost:4000/space-jekyll-template/space/</guid>
+        <link>http://localhost:4000/space/</link>
+        <guid isPermaLink="true">http://localhost:4000/space/</guid>
         
         <category>mongodb</category>
         

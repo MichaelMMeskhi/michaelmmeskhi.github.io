@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	  <url>
-		<loc>http://localhost:4000/space-jekyll-template/sharding/</loc>
+		<loc>http://localhost:4000/sharding/</loc>
 	  </url>
 	
 	  <url>
-		<loc>http://localhost:4000/space-jekyll-template/space/</loc>
+		<loc>http://localhost:4000/space/</loc>
 	  </url>
 	
 </urlset>
