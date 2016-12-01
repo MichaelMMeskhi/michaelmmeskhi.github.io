@@ -1,7 +1,7 @@
 # Site settings
 title: Michael M.Meskhi - Software Engineer
 description: "My personal website"
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://michaelmmekshi.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
