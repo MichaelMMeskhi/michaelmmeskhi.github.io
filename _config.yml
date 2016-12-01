@@ -5,11 +5,11 @@ baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templ
 url: "http://michaelmmekshi.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
-username: michaelmmekshi
+username: Michael M.Mekshi
 user_title: Michael M.Meskhi
 email: michael.m.meskhi@live.com
 twitter_username: michaelmeskhi
-github_username:  michaelmmekshi
+github_username:  MichaelMMeskhi
 #gplus_username:  loremipsum
 disqus_username: mikhailmmeskhi
 stackoverflow_username:      5110035/michaelmmeskhi
