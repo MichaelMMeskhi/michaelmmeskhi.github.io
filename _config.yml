@@ -1,75 +1,50 @@
-# Site
-title:              Mikhail M.Meskhi
-bio:                Software Engineering student @NorthAmericanU
-description:        Studying Aritifical Intelligence - Linux Guru
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.jpeg'
-background:         'assets/img/wallpaper.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                http://mikhailmmeskhi.me
+# Site settings
+title: Lorem Ipsum - Web Developer
+description: "A blog about lorem ipsum ..."
+baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
+url: "http://victorvoid.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  input: 	    GFM
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+# User settings
+username: lorem ipsum
+user_title: Lorem Ipsum - FrontEnd
+email: lorem.lorem@ipsum.com
+twitter_username: loremipsum
+github_username:  loremipsum
+gplus_username:  loremipsum
+disqus_username: loremipsum
 
-# Comments
-disqus_shortname:   mikhailmmeskhi
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
 
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email:              michael.m.meskhi@live.com
-twitter:            michaelmeskhi
-#facebook:          michael.m.meskhi
-github:             MichaelMMeskhi
-stackoverflow:      5110035/michaelmmeskhi
-linkedin:           mikhailmmeskhi
-#xing:              username
-#instagram:         username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:             username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
 
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
 
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: asciilang
+    url: https://github.com/victorvoid/asciilang
+  - name: vim-frontend
+    url: https://github.com/victorvoid/vim-frontend
+  - name: generator-capybara
+    url: https://github.com/victorvoid/generator-capybara 
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
