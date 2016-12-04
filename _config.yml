@@ -32,13 +32,13 @@ links:
   - title: home
     url: /
   - title: my posts
-    url: /posts
+    url: http://michaelmmeskhi.github.io/_site/posts/index.html
   - title: series
     url: /series
   - title: tags
     url: /tags
   - title: about me
-    url: /about
+    url: http://michaelmmeskhi.github.io/about.html
 # projects in header index
 projects:
   - name: asciilang
