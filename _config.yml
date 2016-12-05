@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://michaelmmeskhi.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Michael M.Meskhi"
+title: "{ Michael M.Meskhi }"
+description: "Blog and website of Michael M.Meskhi, showcase of skills and amazing ideas!."
+keywords: "personal, michael, m.meskhi, blog, computer science, life"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Never. Give. Up!"
+  - text: "Talk is cheap, show me the code."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/profile.png"
 
 ##############################
 # Color the browser elements #
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "mikhailmmeskhi"
 
 syntax-highlight: True
 
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "michael.m.meskhi@live.com"
 
 ################
 # Author Blurb #
