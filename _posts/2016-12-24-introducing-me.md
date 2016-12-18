@@ -5,4 +5,4 @@ title: Introducing Michael
 
 ## Hey there everyone!
 
-![](./public/profile.jpg)
+![](./public/profile.png)
