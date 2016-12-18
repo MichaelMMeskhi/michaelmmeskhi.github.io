@@ -70,6 +70,10 @@ html {
   }
 }
 
+/* Sidebar logo */
+.sidebar-logo{
+    border-radius: 20px;
+}
 /* Sidebar links */
 .sidebar a {
   color: #fff;
