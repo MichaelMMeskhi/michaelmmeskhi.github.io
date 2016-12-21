@@ -4,7 +4,11 @@
 title: Michael M.Meskhi
 description: "Personal blog and project portfolio"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
+<<<<<<< HEAD
 baseurl: "/michaelmmeskhi.github.io" #important: start with /
+=======
+baseurl: ".michaelmmeskhi.github.io" #important: start with /
+>>>>>>> a6a35c266f11eee12c3e4ca60cdf980f4054e2e0
 url: "http://michaelmmeskhi.github.io"
 
 # Build settings
