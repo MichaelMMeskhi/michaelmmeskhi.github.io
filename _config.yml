@@ -3,19 +3,19 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-#permalink:        pretty
-#relative_permalinks: true
+# permalink:        pretty
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Michael M.Meskhi
+tagline:          'Personal Website'
+description:      'Software Engineer, Future Googler, Artificial Intelligence Enthusiast, Linux <3'
 url:              http://mikhailmmeskhi.me
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael M.Meskhi'
+  url:            https://www.linkedin.com/in/mikhailmmeskhi
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/michaelmmeskhi/michaelmmeskhi.github.io
