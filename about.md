@@ -2,7 +2,8 @@
 layout: page
 title: About me
 ---
-<link rel="stylesheet" href="./_includes/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css">
+
 
 My name is Michael. Software Engineer pursuing Artificial Intelligence field. Future Googler. Sophomore student pursuing a B.S. at North American University in Houston Texas. 
 
