@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+<link rel="stylesheet" href="./_includes/font-awesome-4.7.0/css/font-awesome.min.css">
 
 My name is Michael. Software Engineer pursuing Artificial Intelligence field. Future Googler. Sophomore student pursuing a B.S. at North American University in Houston Texas. 
 
@@ -30,3 +31,5 @@ My name is Michael. Software Engineer pursuing Artificial Intelligence field. Fu
 - Interested in Compiler Design
 
 Contact me to find out more! 
+
+<i class="fa fa-stack-overflow" aria-hidden="true"></i>
