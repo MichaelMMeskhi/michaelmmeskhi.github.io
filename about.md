@@ -33,4 +33,7 @@ My name is Michael. Software Engineer pursuing Artificial Intelligence field. Fu
 
 Contact me to find out more! 
 
-<i class="fa fa-stack-overflow" aria-hidden="true"></i>
+<a href="http://stackoverflow.com/users/5110035/michaelmmeskhi"> <i class="fa fa-stack-overflow fa-lg" aria-hidden="true"></i></a>
+<a href="https://www.linkedin.com/in/mikhailmmeskhi"> <i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i></a>
+<a href="https://github.com/MichaelMMeskhi"> <i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+<a href="michael.m.meskhi@live.com"> <i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i></a>
