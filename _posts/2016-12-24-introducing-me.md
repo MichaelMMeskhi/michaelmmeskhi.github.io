@@ -29,7 +29,7 @@ What's new in this update?
 
 ## Syntax
 
-PEP 498: Formatted string literals
+**PEP 498: Formatted string literals**
 
 PEP 498 introduces a new kind of string literals: f-strings, or formatted string literals.
 Formatted string literals are prefixed with 'f' and are similar to the format strings accepted by `str.format()`. They contain replacement fields surrounded by curly braces. The replacement fields are expressions, which are evaluated at run time, and then formatted using the `format()` protocol:
@@ -46,7 +46,7 @@ Formatted string literals are prefixed with 'f' and are similar to the format st
 ```
 
 
-PEP 515: Underscores in Numeric Literals
+**PEP 515: Underscores in Numeric Literals**
 
 PEP 515 adds the ability to use underscores in numeric literals for improved readability. For example:
 
@@ -71,7 +71,7 @@ The string formatting language also now has support for the '_' option to signal
 ```
 
 
-PEP 526: Syntax for variable annotations
+**PEP 526: Syntax for variable annotations**
 
 PEP 484 introduced the standard for type annotations of function parameters, a.k.a. type hints. This PEP adds syntax to Python for annotating the types of variables including class variables and instance variables:
 
@@ -89,7 +89,7 @@ Just as for function annotations, the Python interpreter does not attach any par
 In contrast to variable declarations in statically typed languages, the goal of annotation syntax is to provide an easy way to specify structured type metadata for third party tools and libraries via the abstract syntax tree and the `__annotations__` attribute.
 
 
-PEP 525: Asynchronous Generators
+**PEP 525: Asynchronous Generators**
 
 PEP 492 introduced support for native coroutines and `async` / `await` syntax to Python 3.5. A notable limitation of the Python 3.5 implementation is that it was not possible to use await and yield in the same function body. In Python 3.6 this restriction has been lifted, making it possible to define asynchronous generators:
 
@@ -102,7 +102,7 @@ async def ticker(delay, to):
 ```
 
 
-PEP 530: Asynchronous Comprehensions
+**PEP 530: Asynchronous Comprehensions**
 
 PEP 530 adds support for using async for in list, set, dict comprehensions and generator expressions:
 
