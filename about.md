@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 ---
-
-## About me
 
 My name is Michael. Software Engineer pursuing Artificial Intelligence field. Future Googler. Sophomore student pursuing a B.S. at North American University in Houston Texas. 
 
