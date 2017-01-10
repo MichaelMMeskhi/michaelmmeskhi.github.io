@@ -31,6 +31,8 @@ My name is Michael. Software Engineer pursuing Artificial Intelligence field. Fu
 - Working on Graph Theory research (Under the supervision of Dr. Kurt)
 - Interested in Compiler Design
 
+[My profile](http://stackoverflow.com/story/michaelmmeskhi)
+
 Contact me to find out more! 
 
 <a href="http://stackoverflow.com/users/5110035/michaelmmeskhi"> <i style="width:65px;" class="fa fa-stack-overflow fa-2x" aria-hidden="true"></i></a>
