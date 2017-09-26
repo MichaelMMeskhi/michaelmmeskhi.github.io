@@ -9,8 +9,8 @@ highlighter:      rouge
 # Setup
 title:            Michael M.Meskhi
 tagline:          'Personal Website'
-description:      'Software Engineer, Future Googler, Artificial Intelligence Enthusiast, Linux <3'
-url:              http://mikhailmmeskhi.me
+description:      'Machine Learning Engineer, Undergraduate Researcher, Future Googler'
+url:              http://michaelmm.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/michaelmmeskhi/michaelmmeskhi.github.io
+  repo:           https://github.com/michaelmmeskhi
