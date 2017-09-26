@@ -1,0 +1,67 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Michael M.Meskhi
+email: michael.m.meskhi@live.com
+description: Personal blog & portfolio
+url: https://michaelmmeskhi.github.io # the base hostname & protocol for your site
+keywords: ["Machine Learning", "Linux", "Research"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Michael
+  avatar: michael-logo.jpeg
+  job: "Machine Learning Engineer & Researcher"
+  bio: "A undergraduate machine learning engineer currently conducting research on meta-learning at University of Houston."
+  email: michael.m.meskhi@live.com  
+  disqus-shortname: mikhailmekhedkinmeskhi
+  twitter:  #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: michaelmmeskhi #username
+  stackoverflow: 5110035/michaelmmeskhi #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: mikhailmmeskhi #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
