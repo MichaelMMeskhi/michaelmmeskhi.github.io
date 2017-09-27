@@ -1,4 +1,4 @@
 - name: Meta-Learning
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  descr: "Researching better data characterization methods for Meta-Learning. Meta-Learning is the study of principled methods that exploit meta-knowledge to obtain efficient models and solutions by adapting machine learning and data mining processes."
   image: pong.png
   github: https://github.com/michaelmmeskhi/meta-learning
