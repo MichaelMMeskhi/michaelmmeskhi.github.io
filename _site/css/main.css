@@ -1466,8 +1466,8 @@ pre code {
   padding: 0 30px; }
   .cover-card .avatar {
     border-radius: 50%;
-    width: 270px;
-    height: 270px;
+    width: 100px;
+    height: 100px;
     float: none; }
   .cover-card .author_name {
     display: block;
