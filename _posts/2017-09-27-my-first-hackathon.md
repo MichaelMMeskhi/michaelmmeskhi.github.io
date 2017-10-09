@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "hackNAU"
-excerpt: "My first attempt at organizing a hackathon at NAU."
+title: "hack[**NAU**]"
+excerpt: "My first attempt at organizing a MLH hackathon at NAU."
 categories: [hackathon]
 comments: true
 ---
 
+# 
