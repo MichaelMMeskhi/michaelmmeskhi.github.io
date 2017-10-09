@@ -18,4 +18,4 @@ When I started universities studies, I was fascinated by everything in Computer 
 
 ![hackHouston17](/img/hh17.jpg)
 
-- Michael M.Meskhi (right), Bedir Tapkan (middle), Ahmet Hamza Emra (left) 
+> Michael M.Meskhi (right), Bedir Tapkan (middle), Ahmet Hamza Emra (left) 
