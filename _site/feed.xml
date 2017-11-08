@@ -5,13 +5,27 @@
     <description>Personal blog &amp; portfolio</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2017 18:32:29 +0200</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2017 18:32:29 +0200</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Wed, 08 Nov 2017 06:17:41 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2017 06:17:41 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>hackNAU</title>
-        <description>
+        <title>hack[NAU]</title>
+        <description>&lt;h1 id=&quot;what-is-a-mlh-hackathon&quot;&gt;What is a MLH Hackathon?&lt;/h1&gt;
+
+&lt;p&gt;Firt off, what is a hackathon? A hackathon is a overnight event where students from technical backgrounds come over to form teams that work on ideas and/or real world problems. They build solutions in under 24 hours while having fun by playing mini games, eating cool snacks, and most of all getting to know new colleagues or future employers.&lt;/p&gt;
+
+&lt;p&gt;But what is MLH? MLH stands for Major League Hacking. It is the official student hackathon organization team that helps students set up hackathons and attract attendees and sponsors. They were founded in 2012 and have grown exponentialy since then! Their work has helped found nations largest and most successful hackathons! Thanks to them, we were able to start hack[NAU] at my school.&lt;/p&gt;
+
+&lt;h1 id=&quot;motivation-behind-this&quot;&gt;Motivation Behind This&lt;/h1&gt;
+
+&lt;p&gt;When I started universities studies, I was fascinated by everything in Computer Science yet afraid. One day my peer mentor at NAU tells me about a “hackathon” at University of Houston and gave me a link to register under. I did not know what to expect but it seemed “cool” to me (freshmen find everything to be super cool). Little did I know how much would going to CodeRED (UH Hackathon) change my life. I had so much fun at CodeRED that I promised myself to attend every hackathon in Houston that I could find. So my hunt started. I attended every hackathon and tried to participate. Then came April 22nd, 2017. HackHouston17 was going down in Texas Sourthern University and I registered with my friends. We decided to participate and build a machine learning system that classified user’s resume according to other experienced engineers and returned a list of companies that the user can apply to according to their skills and education. After 24 hours of hardwork we snatched the 1st place medal at HackHouston17! We finally decided it was time we organized a hackathon at our school and connected our selves with the Computer Science community in Houston.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/hh17.jpg&quot; alt=&quot;hackHouston17&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Michael M.Meskhi (right), Bedir Tapkan (middle), Ahmet Hamza Emra (left)&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 27 Sep 2017 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2017-09/my-first-hackathon</link>
