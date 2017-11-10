@@ -1,22 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: compress
+---
 
-{% include head.html %}
+{% include base_path %}
 
-<body>
-  <div class="row">
-    <div class="col s12 m3">
-      <div class="table cover">
-        {% include sidebar.html %}
-      </div>
-    </div>
-    <div class="col s12 m9">
-      <div class="post-listing">
-        {{ content }}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
         {% include footer.html %}
-      </div>
+      </footer>
     </div>
-  </div>
-  {% include js.html %}
-</body>
+
+    {% include scripts.html %}
+
+  </body>
 </html>
