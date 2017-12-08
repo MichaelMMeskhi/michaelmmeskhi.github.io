@@ -8,13 +8,14 @@
 # Site settings
 title: Michael M.Meskhi
 email: m.meskhi@na.edu
-description: Machine Learning Engineer - Future PhD Candidate
+description: Machine Learning Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://michaelmm.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  michaelmmeskhi
+# twitter_username: hemang_kumar
+# github_username:  MichaelMMeskhi
 paginate: 5
-theme-dark: true #Set to true to change to dark website theme
+quote: "\"Veni, vidi, vici\""
+theme-dark: false #Set to true to change to dark website theme
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
