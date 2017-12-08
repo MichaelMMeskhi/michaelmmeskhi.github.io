@@ -1,24 +1,29 @@
 ---
-layout: default
+layout: page
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+{% for post in site.posts %}
+{% for cat in post.categories %}
+{% if cat == page.category %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
+
+<div class="post postContent">
+  <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+  </div>
+  <div class="postTag">
+    {{post.tag}}
+  </div>
+  <br>
+  <div class="postTitle">
+  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+  </div>
+  <div class="postExt">
+    {{post.excerpt}}
   </div>
 </div>
+{% endif %}
+{% endfor %}
+
+{% endfor %}

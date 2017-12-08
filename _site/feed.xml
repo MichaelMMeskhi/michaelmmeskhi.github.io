@@ -1,3 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-09T23:54:28-08:00</updated><id>http://localhost:4000/</id><title type="html">Michael M.Meskhi</title><subtitle>Portfolio and blog</subtitle><author><name>Michael M.Meskhi</name><email>m.meskhi@na.edu</email></author><entry><title type="html">Domain Adaptation</title><link href="http://localhost:4000/posts/2017/11/domain-adaptation/" rel="alternate" type="text/html" title="Domain Adaptation" /><published>2017-11-09T00:00:00-08:00</published><updated>2017-11-09T00:00:00-08:00</updated><id>http://localhost:4000/posts/2017/11/domain-adaptation-1</id><content type="html" xml:base="http://localhost:4000/posts/2017/11/domain-adaptation/">&lt;h1 id=&quot;what-is-domain-adaptation&quot;&gt;What is Domain Adaptation?&lt;/h1&gt;
-
-&lt;p&gt;Domain Adaptation is a field associated with machine learning and transfer learning. This scenario arises when we aim at learning from a source data distribution a well performing model on a different (but related) target data distribution. For instance, one of the tasks of the common spam filtering problem consists in adapting a model from one user (the source distribution) to a new one who receives significantly different emails (the target distribution). Note that, when more than one source distribution is available the problem is referred to as multi-source domain adaptation.&lt;/p&gt;</content><author><name>Michael M.Meskhi</name><email>m.meskhi@na.edu</email></author><category term="machine learning" /><category term="domain adaptation" /><summary type="html">What is Domain Adaptation?</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael M.Meskhi</title>
+    <description>Machine Learning Engineer - Future PhD Candidate</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Nov 2017 00:54:37 -0600</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 00:54:37 -0600</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+  </channel>
+</rss>
