@@ -1,22 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Mikhail M.Meskhi
+url: "michaelmmeskhi.github.io"
+baseurl: "/researcher"
 
-# Site settings
-title: Michael M.Meskhi
-email: m.meskhi@na.edu
-description: Machine Learning Researcher
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://michaelmm.com" # the base hostname & protocol for your site
-# twitter_username: hemang_kumar
-# github_username:  MichaelMMeskhi
-paginate: 5
-quote: "\"Veni, vidi, vici\""
-theme-dark: false #Set to true to change to dark website theme
-
-gems: [jekyll-paginate, kramdown]
-# Build settings
 markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/michaelmmeskhi"
+footer_text: "Last Updated On 08/28/2018"
+
+sass:
+    style: compressed
+    sass_dir: _sass
