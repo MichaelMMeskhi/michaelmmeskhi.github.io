@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="michael.jpeg">
+<img class="profile-picture" src="michael.jpg">
 
 Welcome to my page:
 
@@ -20,7 +20,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Publications
 
-1. Vilalta, R., Dhar Gupta, K., Boumber, Dainis., Meskhi M.: **A General Approach to Domain Adaptation with Applications in Astronomy**, *Manuscript submitted for publication.*
+1. Vilalta, R., Dhar Gupta, K., Boumber, Dainis., **Meskhi M.**: **A General Approach to Domain Adaptation with Applications in Astronomy**, Publications of the Astronomical Society of the Pacific.
 2. Vilalta, R., Boumber, Dainis., Meskhi M.: **Broadscale Domain Adaptation Using Adaptive Sampling and Active Learning**, *Manuscript preparing for submission.*
 
 #### Project Code/Data
@@ -40,5 +40,6 @@ All of the experiments, data and results can be found here: [Pattern Analysis La
 ## References
 
 * [Dr. Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/): Associate Professor, Department of Computer Science, University of Houston
-* [Dainis Boumber](): Ph.D Candidate, Department of Computer Science, University of Houston
+* [Dr. Dainis Boumber](): Department of Computer Science, University of Houston
 * [Dr. Kemal Aydin](https://www.linkedin.com/in/kaydin/): Lead Faculty, Associate Professor, Department of Computer Science, Franklin University
+* [Dr. Hakan Haberdar](https://www.linkedin.com/in/haberdar/): Machine Learning Scientist, FICO, San Diego, CA
