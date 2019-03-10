@@ -4,5 +4,8 @@
 - name: "Resume"
   link: "resume.pdf"
 
+- name: "Blog"
+  link: "https://medium.com/@mikhailmekhedkinmeskhi"
+  
 - name: "About"
   link: "/"
