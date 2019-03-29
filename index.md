@@ -15,7 +15,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 #### Timeline
 
 - **\[2019-Present]**: University of Houston: PhD in Computer Science focus on Machine Learning. Advisor: [Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/) 
-- **\[Spring 2019]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning 
+- **\[2019-Present]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning 
 - **\[2015-2019]**: North American University: Bachelor's in Computer Science
 
 
@@ -26,6 +26,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Projects
 
+- **[MtL-Progress](https://github.com/MichaelMMeskhi/MtL-Progress)**: repo to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
 - **[transferAL](https://github.com/PAL-UH/transferAL)**: Proposed a new bayesian algorithm with promising results on supervised and unsupervisedastronomy problems
 
 
