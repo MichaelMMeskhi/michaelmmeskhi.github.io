@@ -5,20 +5,20 @@ is_contact: true
 
 Feel free to send me an email or a text. 
 
-* Email: [m.meskhi@na.edu](mailto:m.meskhi@na.edu)
+* Email: [mmeskhi@pdrcorp.com](mailto:mmeskhi@pdrcorp.com)
 
-* Phone: [+1979-618-0665](tel:+1979-618-0665)
+* Phone: [+1 (346) 404-4096](tel:+1346-404-4096)
 
 ---
 
 ## Mailing Address
 
-> North American University
+> University of Houston
 >
-> 11929, West Airport Boulevard
+> MREB (Multidisciplinary Research and Engineering Building)
 >
 >
-> Stafford, Texas
->
-> United States of America
-
+> University of Houston
+> CACDS
+> 4718 Calhoun Road
+> Houston, TX 77204-3058
