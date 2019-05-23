@@ -22,21 +22,22 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 ## Publications
 
 1. Vilalta, R., Dhar Gupta, K., Boumber, Dainis., **Meskhi M.**: **[A General Approach to Domain Adaptation with Applications in Astronomy](https://www.researchgate.net/publication/329884189_A_General_Approach_to_Domain_Adaptation_with_Applications_in_Astronomy)**, Publications of the Astronomical Society of the Pacific.
-2. Vilalta, R., Boumber, Dainis., Meskhi M.: **Broadscale Domain Adaptation Using Adaptive Sampling and Active Learning**, *Manuscript preparing for submission.*
 
 ## Projects
 
-- **[MtL-Progress](https://github.com/MichaelMMeskhi/MtL-Progress)**: repo to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
-- **[transferAL](https://github.com/PAL-UH/transferAL)**: Proposed a new bayesian algorithm with promising results on supervised and unsupervisedastronomy problems
+- **[MtL-Progress](https://github.com/MichaelMMeskhi/MtL-Progress)**: Repo to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
+- **[OpenML-Python](https://github.com/openml/openml-python)**: Python module to interface with OpenML.org.
+- **[transferAL](https://github.com/PAL-UH/transferAL)**: Proposed a new bayesian algorithm with promising results on supervised and unsupervised astronomy problems.
 
 
 ## Talks & Teachings
 
-- **\[May 2019]**: Introduction to Meta-Learning at the [Houston Machine Learning Meetup](https://www.meetup.com/Houston-Machine-Learning/)
+- **\[May 2019]**: [Introduction to Learning to Learn](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/intro_learning_to_learn.pdf) at the [Houston Machine Learning Meetup](https://www.meetup.com/Houston-Machine-Learning/events/261384583/)
 
 ## Misc
 
 - I really like `xkcd` comics! [My favorite one](https://xkcd.com/1838/)
+- For serious questions, [Quora](https://quora.com) or for everything else [Reddit](https://reddit.com).
 
 ## References
 
