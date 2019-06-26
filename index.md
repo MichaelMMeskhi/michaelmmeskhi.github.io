@@ -14,9 +14,9 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 #### Timeline
 
-- **\[2019-Present]**: University of Houston: PhD in Computer Science focus on Machine Learning. Advisor: [Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/) 
-- **\[2019-Present]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning 
-- **\[2015-2019]**: North American University: Bachelor's in Computer Science
+- **\[2019-Present]**: University of Houston: M.Sc. and Ph.D. in Computer Science focus on Machine Learning. Advisor: [Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/) 
+- **\[2019-Present]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning. 
+- **\[2015-2019]**: North American University: Bachelor's in Computer Science.
 
 
 ## Publications
@@ -37,7 +37,8 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 ## Misc
 
 - I really like `xkcd` comics! [My favorite one](https://xkcd.com/1838/)
-- For serious questions, [Quora](https://quora.com) or for everything else [Reddit](https://reddit.com).
+- For serious questions, [Quora](https://www.quora.com/profile/Mikhail-Mekhedkin-Meskhi) or for everything else [Reddit](https://www.reddit.com/user/MichaelMMeskhi).
+- [How to survive graduate school and excell in it.](http://richb.rice.edu/signal-processing/research-resources/)
 
 ## References
 
