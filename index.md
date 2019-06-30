@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="michael.jpg">
 
-I am a research assistant at the University of Houston at the Pattern Analysis Lab under Dr. Ricardo Vilalta's supervision. My research is primarily focused in Machine Learning and it's subfields. Topics I work on include but are not limited to, Meta-Learning, Domain Adapatation, Topological Data Analysis and Transfer Learning.
+I am a research assistant at the University of Houston at the Pattern Analysis Lab under Dr. Ricardo Vilalta's supervision. My research is primarily focused on meta-learning and transfer learning in Machine Learning.
+
+Currently on-going projects: Unboxing CNNs via Transfer Learning - Standarizing Experiment Results via OpenML - Meta-learning theory of learning to learn. 
 
 Check out my [Medium blog](https://medium.com/@mikhailmekhedkinmeskhi) for research and life related blog posts!
 
