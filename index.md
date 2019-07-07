@@ -36,6 +36,8 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 - **\[May 2019]**: [Introduction to Learning to Learn](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/intro_learning_to_learn.pdf) at the [Houston Machine Learning Meetup](https://www.meetup.com/Houston-Machine-Learning/events/261384583/)
 
+- **\[March 2019]**: [Meta-Transfer Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad)
+
 ## Misc
 
 - I really like `xkcd` comics! [My favorite one](https://xkcd.com/1838/)
