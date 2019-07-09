@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="michael.jpg">
 
-Pronounced 	*mee k-h ah EEl* 
+Pronounced 	(*mee k-h ah EEl*). <br>
 
 I am a research assistant at the University of Houston at the Pattern Analysis Lab under Dr. Ricardo Vilalta's supervision. My research is primarily focused on meta-learning and transfer learning in Machine Learning.
 
