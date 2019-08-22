@@ -8,7 +8,7 @@ layout: default
 
 Pronounced 	(*mee k-h ah EEl*). <br>
 
-I am a research assistant at the University of Houston at the Pattern Analysis Lab under Dr. Ricardo Vilalta's supervision. My research is primarily focused on meta-learning and transfer learning in Machine Learning.
+I am a graduate research assistant at the University of Houston at the [Pattern Analysis Laboratory](https://www.uh.edu/pa-lab/) under [Dr. Ricardo Vilalta](https://www.uh.edu/~rvilalta/)'s supervision. My research is primarily focused on meta-learning and transfer learning in Machine Learning.
 
 Currently on-going projects: Unboxing CNNs via Transfer Learning - Standarizing Experiment Results via OpenML - Meta-learning theory of learning to learn. 
 
@@ -19,8 +19,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 #### Timeline
 
 - **\[2019-Present]**: University of Houston: M.Sc. and Ph.D. in Computer Science focus on Machine Learning. Advisor: [Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/) 
-- **\[2019-Present]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning. 
-- **\[2015-2019]**: North American University: Bachelor's in Computer Science.
+- **\[2019]**: PDR Corp Internship: Data Analysis, Data Modeling, Supervised Learning. 
 
 
 ## Publications
@@ -29,6 +28,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Projects
 
+- **[TransferLRP](https://github.com/MichaelMMeskhi/TransferLRP/tree/master/lrp)**: Unboxing Convolutional Neural Networks Using Layer-wise Relevance Propagation.
 - **[MtL-Progress](https://github.com/MichaelMMeskhi/MtL-Progress)**: Repo to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
 - **[OpenML-Python](https://github.com/openml/openml-python)**: Python module to interface with OpenML.org.
 - **[transferAL](https://github.com/PAL-UH/transferAL)**: Proposed a new bayesian algorithm with promising results on supervised and unsupervised astronomy problems.
@@ -36,8 +36,8 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Talks & Teachings
 
+- **\[August 2019]**: [Computer Science and Programming (COSC 1306-02)](COSC_1306_Syllabus.pdf)
 - **\[May 2019]**: [Introduction to Learning to Learn](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/intro_learning_to_learn.pdf) at the [Houston Machine Learning Meetup](https://www.meetup.com/Houston-Machine-Learning/events/261384583/)
-
 - **\[March 2019]**: [Meta-Transfer Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad)
 
 ## Misc
