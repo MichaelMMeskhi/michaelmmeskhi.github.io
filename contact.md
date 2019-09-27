@@ -5,7 +5,7 @@ is_contact: true
 
 Feel free to send me an email or a text. 
 
-* Email: [mmeskhi@pdrcorp.com](mailto:mmeskhi@pdrcorp.com)
+* Email: [mmeskhi@uh.edu](mailto:mmeskhi@uh.edu)
 
 * Phone: [+1 (346) 404-4096](tel:+1346-404-4096)
 
