@@ -1,11 +1,8 @@
 - name: "Contact"
   link: "contact"
 
-- name: "Resume"
-  link: "Resume.pdf"
-
-- name: "Blog"
-  link: "https://medium.com/@mikhailmekhedkinmeskhi"
+- name: "Laboratory"
+  link: "https://www.uh.edu/pa-lab/"
   
 - name: "About"
   link: "/"

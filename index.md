@@ -12,9 +12,9 @@ I am a graduate research assistant at the University of Houston at the [Pattern 
 
 Currently on-going projects: Unboxing CNNs via Transfer Learning - Standarizing Experiment Results via OpenML - Meta-learning theory of learning to learn. 
 
-Check out my [Medium blog](https://medium.com/@mikhailmekhedkinmeskhi) for research and life related blog posts!
+For any questions or collaboration on ongoing or past projects, please see my [Github](https://github.com/MichaelMMeskhi) page and use the `Create New Issue` option for requests. E-mailing me also works.
 
-For any questions or collaboration on ongoing or past projects, please see my [Github](https://github.com/MichaelMMeskhi) page and use the `Create New Issue` option for requests. E-mailing me also works. 
+[CV](Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=hLP_vy4AAAAJ&hl=en&oi=sra) | [Github](https://github.com/MichaelMMeskhi) | [Metalearning](http://metalearningml.org) | [Medium blog](https://medium.com/@mikhailmekhedkinmeskhi)
 
 #### Timeline
 
@@ -24,11 +24,13 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Publications
 
-1. Vilalta, R., Dhar Gupta, K., Boumber, Dainis., **Meskhi M.**: **[A General Approach to Domain Adaptation with Applications in Astronomy](https://www.researchgate.net/publication/329884189_A_General_Approach_to_Domain_Adaptation_with_Applications_in_Astronomy)**, Publications of the Astronomical Society of the Pacific.
+1. Vilalta, R., **M.Meskhi, M.**: **[Transfer of Knowledge Across Tasks](TLchapter.pdf)** a chapter pre-print in Metalearning: Applications to Data Mining (2019).
+
+2. Vilalta, R., Dhar Gupta, K., Boumber, D., **M.Meskhi M.**: **[A General Approach to Domain Adaptation with Applications in Astronomy](https://www.researchgate.net/publication/329884189_A_General_Approach_to_Domain_Adaptation_with_Applications_in_Astronomy)**, Publications of the Astronomical Society of the Pacific (2018).
 
 ## Projects
 
-- **[TransferLRP](https://github.com/MichaelMMeskhi/TransferLRP/tree/master/lrp)**: Unboxing Convolutional Neural Networks Using Layer-wise Relevance Propagation.
+- **[TEX](https://github.com/MichaelMMeskhi/TransferLRP/tree/master/lrp)**: Transfer explainability in deep neural networks via layer-wise relevance propagation.
 - **[MtL-Progress](https://github.com/MichaelMMeskhi/MtL-Progress)**: Repo to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
 - **[OpenML-Python](https://github.com/openml/openml-python)**: Python module to interface with OpenML.org.
 - **[transferAL](https://github.com/PAL-UH/transferAL)**: Proposed a new bayesian algorithm with promising results on supervised and unsupervised astronomy problems.
@@ -45,10 +47,3 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 - I really like `xkcd` comics! [My favorite one](https://xkcd.com/1838/)
 - For serious questions, [Quora](https://www.quora.com/profile/Mikhail-Mekhedkin-Meskhi) or for everything else [Reddit](https://www.reddit.com/user/MichaelMMeskhi).
 - [How to survive graduate school and excell in it.](http://richb.rice.edu/signal-processing/research-resources/)
-
-## References
-
-* [Dr. Ricardo Vilalta](http://www2.cs.uh.edu/~vilalta/): Associate Professor, Department of Computer Science, University of Houston
-* [Dr. Dainis Boumber](): Department of Computer Science, University of Houston
-* [Dr. Kemal Aydin](https://www.linkedin.com/in/kaydin/): Lead Faculty, Associate Professor, Department of Computer Science, Franklin University
-* [Dr. Hakan Haberdar](https://www.linkedin.com/in/haberdar/): Machine Learning Scientist, FICO, San Diego, CA
