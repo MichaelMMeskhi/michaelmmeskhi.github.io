@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-Feel free to send me an email or a text. 
+Feel free to send me an email or schedule a [meeting here](https://calendly.com/mmeskhi/meeting).
 
 * Email: [mmeskhi@uh.edu](mailto:mmeskhi@uh.edu)
 
