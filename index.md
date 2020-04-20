@@ -38,6 +38,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Talks & Teachings
 
+- **\[Spring 2020]**: [Focus On Research: Meta-learning](FOR_Metalearning.pdf)
 - **\[Spring 2020]**: [Fundamentals of Operating Systems (COSC 3360/6310)](COSC_3366_Syllabus.pdf)
 - **\[Fall 2019]**: [Computer Science and Programming (COSC 1306-02)](COSC_1306_Syllabus.pdf)
 - **\[May 2019]**: [Introduction to Learning to Learn](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/intro_learning_to_learn.pdf) at the [Houston Machine Learning Meetup](https://www.meetup.com/Houston-Machine-Learning/events/261384583/)
