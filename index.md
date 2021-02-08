@@ -24,9 +24,11 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Publications
 
-1. Vilalta, R., **M.Meskhi, M.**: **[Transfer of Knowledge Across Tasks](TLchapter.pdf)** a chapter pre-print in Metalearning: Applications to Data Mining (2019).
+1. **M.Meskhi, M.**, Rivolli, A., Mantovani, R., Vilalta, R.: **[Learning Abstract Task Representations](https://arxiv.org/pdf/2101.07852)**, AAAI Conference on Artificial Intelligence, Meta-Learning & Co-Hosted Challenge Workshop (2021). 
 
-2. Vilalta, R., Dhar Gupta, K., Boumber, D., **M.Meskhi M.**: **[A General Approach to Domain Adaptation with Applications in Astronomy](https://www.researchgate.net/publication/329884189_A_General_Approach_to_Domain_Adaptation_with_Applications_in_Astronomy)**, Publications of the Astronomical Society of the Pacific (2018).
+2. Vilalta, R., **M.Meskhi, M.**: **[Transfer of Knowledge Across Tasks](TLchapter.pdf)** a chapter pre-print in Metalearning: Applications to Data Mining (2019).
+
+3. Vilalta, R., Dhar Gupta, K., Boumber, D., **M.Meskhi M.**: **[A General Approach to Domain Adaptation with Applications in Astronomy](https://www.researchgate.net/publication/329884189_A_General_Approach_to_Domain_Adaptation_with_Applications_in_Astronomy)**, Publications of the Astronomical Society of the Pacific (2018).
 
 ## Projects
 
@@ -38,6 +40,7 @@ For any questions or collaboration on ongoing or past projects, please see my [G
 
 ## Talks & Teachings
 
+- **\[Spring 2021]**: [Meta-learning Workshop Poster: Learning Abstract Task Representations]
 - **\[Spring 2020]**: [Focus On Research: Meta-learning](FOR_Metalearning.pdf)
 - **\[Spring 2020]**: [Fundamentals of Operating Systems (COSC 3360/6310)](COSC_3366_Syllabus.pdf)
 - **\[Fall 2019]**: [Computer Science and Programming (COSC 1306-02)](COSC_1306_Syllabus.pdf)
